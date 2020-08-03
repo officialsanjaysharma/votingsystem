@@ -1,4 +1,4 @@
-#Instruction to Run backend
+ #Instruction to Run backend
   - Go to server
   - Enter yarn or npm install in terminal
   - Remember to change 
@@ -10,13 +10,13 @@
   - yarn start or npm run start
   - Server will start on port 8000
 
-#Instruction to Run frontend
+ #Instruction to Run frontend
   - Go to client
   - Enter yarn or npm install in terminal
   - yarn start or npm run start
   - Server will start on port 3000
 
-#Flow
+ #Flow
   - Only one candidate can Register from an IP.
   - If you are registered you cant register again unless deleted by admin.
   - If you are not registered you can still watch the leaderboard and candidate detail but can't vote.
